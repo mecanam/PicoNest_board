@@ -1,0 +1,5 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "SS22F06G5G")(type "KiCad")(uri "C:/Users/Ynobe/OneDrive/デスクトップ/Raspberrypi_pico_拡張基板/library/SS22F06G5G.kicad_sym")(options "")(descr ""))
+  (lib (name "pushswitch")(type "KiCad")(uri "C:/Users/Ynobe/OneDrive/デスクトップ/Raspberrypi_pico_拡張基板/library/pushswitch.kicad_sym")(options "")(descr ""))
+)
